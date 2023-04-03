@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1639302571 source:c:\users\leone\onedrive\desktop\tilyoudiefinal\titlescreen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"ANSI_color_codes.h"
+
+1639561329 source:c:\users\leone\onedrive\desktop\tilyoudiefinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"titlescreen.h"
+	"inGameFuntions.h"
+	"ANSI_color_codes.h"
+
+1639232013 c:\users\leone\onedrive\desktop\tilyoudiefinal\titlescreen.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1639328053 source:c:\users\leone\onedrive\desktop\tilyoudiefinal\ingamefuntions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"inGameFuntions.h"
+
+1639328043 c:\users\leone\onedrive\desktop\tilyoudiefinal\ingamefuntions.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1639226523 c:\users\leone\onedrive\desktop\tilyoudiefinal\ansi_color_codes.h
+
+1639328053 source:c:\users\leone\onedrive\desktop\tilyoudiefinalcopy\ingamefuntions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"inGameFuntions.h"
+
+1639328043 c:\users\leone\onedrive\desktop\tilyoudiefinalcopy\ingamefuntions.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1639585798 source:c:\users\leone\onedrive\desktop\tilyoudiefinalcopy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"titlescreen.h"
+	"inGameFuntions.h"
+	"ANSI_color_codes.h"
+
+1639232013 c:\users\leone\onedrive\desktop\tilyoudiefinalcopy\titlescreen.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1639226523 c:\users\leone\onedrive\desktop\tilyoudiefinalcopy\ansi_color_codes.h
+
+1639302571 source:c:\users\leone\onedrive\desktop\tilyoudiefinalcopy\titlescreen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"ANSI_color_codes.h"
+
+1639328053 source:c:\users\leone\onedrive\desktop\tilyoudiefinalultramegacopy\ingamefuntions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"inGameFuntions.h"
+
+1639328043 c:\users\leone\onedrive\desktop\tilyoudiefinalultramegacopy\ingamefuntions.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1639591344 source:c:\users\leone\onedrive\desktop\tilyoudiefinalultramegacopy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"titlescreen.h"
+	"inGameFuntions.h"
+	"ANSI_color_codes.h"
+
+1639232013 c:\users\leone\onedrive\desktop\tilyoudiefinalultramegacopy\titlescreen.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1639226523 c:\users\leone\onedrive\desktop\tilyoudiefinalultramegacopy\ansi_color_codes.h
+
+1639589375 source:c:\users\leone\onedrive\desktop\tilyoudiefinalultramegacopy\titlescreen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"ANSI_color_codes.h"
+
+1639328053 source:c:\users\jpaul\documents\codeblocks codes\c\tilyoudie-c\'tilyoudie project final\ingamefuntions.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"inGameFuntions.h"
+
+1639328043 c:\users\jpaul\documents\codeblocks codes\c\tilyoudie-c\'tilyoudie project final\ingamefuntions.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1639591344 source:c:\users\jpaul\documents\codeblocks codes\c\tilyoudie-c\'tilyoudie project final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"titlescreen.h"
+	"inGameFuntions.h"
+	"ANSI_color_codes.h"
+
+1639232013 c:\users\jpaul\documents\codeblocks codes\c\tilyoudie-c\'tilyoudie project final\titlescreen.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1639226523 c:\users\jpaul\documents\codeblocks codes\c\tilyoudie-c\'tilyoudie project final\ansi_color_codes.h
+
+1639610225 source:c:\users\jpaul\documents\codeblocks codes\c\tilyoudie-c\'tilyoudie project final\titlescreen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"ANSI_color_codes.h"
+
